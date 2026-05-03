@@ -1,6 +1,6 @@
 # Arduino-MQ-131-Ozone-Gas-Sensor
 
-This is Arduino library to detect ozone concentration in the air with the MQ-131 sensor. The library supports low concentration, the calibration, the control of the heater, and the output of values in µg/m3.
+This is an Arduino library to detect ozone concentration in the air with the MQ-131 sensor. The library supports low concentration, the calibration, the control of the heater, and the output of values in µg/m3.
 
 ## Library
 Go to the Library manager of the Arduino IDE and install the library "MQ131 gas sensor" by Olivier Staquet.
